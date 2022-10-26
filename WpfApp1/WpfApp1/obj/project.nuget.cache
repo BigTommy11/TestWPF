@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7BeRN4juW2YpJv02wL1fjdBfjemEfyk6/nTDvWGSrVsyr7scjDEO9jWwi3g6Lh80Kj6MkZVZENorsEtWBK9oRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\utomm\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\utomm\\.nuget\\packages\\materialdesigncolors\\2.0.9\\materialdesigncolors.2.0.9.nupkg.sha512",
+    "C:\\Users\\utomm\\.nuget\\packages\\materialdesignthemes\\4.6.1\\materialdesignthemes.4.6.1.nupkg.sha512",
+    "C:\\Users\\utomm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.28\\microsoft.netcore.app.host.win-x64.3.1.28.nupkg.sha512"
+  ],
+  "logs": []
+}
